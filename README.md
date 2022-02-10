@@ -1,2 +1,2 @@
 # R_storage
-Here are some codes in R about Gujaria.
+Here is the code in R for intermediate econometrics written by gujaria
