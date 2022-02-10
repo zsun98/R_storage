@@ -1,2 +1,2 @@
 # R_storage
-这里是我用R编写的关于Gujaria的中级计量经济学习题的代码
+Here are some codes in R about Gujaria.
